@@ -1,0 +1,15 @@
+#=GENOME_DIFF	1.0
+#=TITLE	Ara+6_50000gen_11370
+#=AUTHOR	Deatherage, Daniel
+#=TIME	50000
+#=POPULATION	Ara+6
+#=TREATMENT	LTEE
+#=CLONE	A
+#=REFSEQ	https://raw.githubusercontent.com/barricklab/LTEE/7da91974eafac0c5a8f903ae57275795d4395af2/reference/REL606.gbk
+#=READSEQ	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/004/SRR2584844/SRR2584844.fastq.gz
+#=MUTATOR_STATUS	point-mutator
+DEL	299	.	REL606	547700	8619	mediated=IS1
+DEL	323	.	REL606	590323	29562	mediated=IS150
+DEL	943	.	REL606	1609130	7554	between=IS3
+DEL	1246	.	REL606	2100308	22146
+DEL	2217	.	REL606	3894997	5160	mediated=IS150

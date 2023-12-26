@@ -1,0 +1,27 @@
+#=GENOME_DIFF	1.0
+#=TITLE	Ara+1_50000gen_11393
+#=AUTHOR	Deatherage, Daniel
+#=TIME	50000
+#=POPULATION	Ara+1
+#=TREATMENT	LTEE
+#=CLONE	B
+#=REFSEQ	https://raw.githubusercontent.com/barricklab/LTEE/7da91974eafac0c5a8f903ae57275795d4395af2/reference/REL606.gbk
+#=READSEQ	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/004/SRR2584534/SRR2584534_1.fastq.gz
+#=READSEQ	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/004/SRR2584534/SRR2584534_2.fastq.gz
+#=MUTATOR_STATUS	IS-mutator
+DEL	4	.	REL606	16989	1013	mediated=IS150
+DEL	16	.	REL606	490481	161226	apply_size_adjust=-4	mediated=IS150	within=18:1
+DEL	21	.	REL606	547700	8125	before=18	mediated=IS1
+DEL	30	.	REL606	762231	208
+DEL	48	.	REL606	1609130	7554	between=IS3
+DEL	60	.	REL606	1974040	8273	mediated=IS1
+DEL	61	.	REL606	2034358	19491	mediated=IS1
+DEL	62	.	REL606	2086923	6104	mediated=IS150	within=63:2
+DEL	65	.	REL606	2263508	3531	mediated=IS1
+DEL	73	.	REL606	2655705	79	mediated=IS150	within=74:1
+DEL	80	.	REL606	2842087	220
+DEL	82	.	REL606	2999597	3312	mediated=IS150	no_normalize=1
+DEL	83	.	REL606	3002909	6030	before=82	mediated=IS150	no_normalize=1
+DEL	85	.	REL606	3008939	39549	before=83	mediated=IS150	no_normalize=1
+DEL	108	.	REL606	3894997	6138	mediated=IS150
+DEL	113	.	REL606	4047676	1907	mediated=IS150	within=114:1

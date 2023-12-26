@@ -1,0 +1,5 @@
+output_new.genotypes.txt
+V
+1
+4
+Y
